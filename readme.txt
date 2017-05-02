@@ -4,5 +4,5 @@ Git has a mutable index called stage.
 Git has a mutable index adwahd.
 hahahahhahh
 hdwdwawdehehehehhedaw
-this is a new branch		
+Creating a new branch 'feature1'
 
