@@ -6,3 +6,4 @@ hahahahhahh
 hdwdwawdehehehehhedaw
 Creating a new branch 'feature1'
 
+到分支管理策略
